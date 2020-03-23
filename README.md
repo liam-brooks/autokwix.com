@@ -9,31 +9,24 @@
     Autokwix
   </a>
 </h1>
-
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+ 
+Here I share my passion about trucks; I got tons of experience in car repairing and would like to share it with you.
+I'd we glad if you contribute to my website as well. I earn small affiliate commission of every car detail sold, but it's too small to leave on it's own.
 
 ##  Start developing
 
+###  Start developing
+
 1.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
     ```shell
     gatsby develop
     ```
+1.  **Start editing!**
+    Got o `http://localhost:8000`!
 
-1.  **Open the source code and start editing!**
+   `http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data
 
-    Your site is now running at `http://localhost:8000`!
-
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-
-## Project Structure
-
-A quick look at the top-level files and directories you'll see in a Gatsby project.
-
+###  Project Structure
     .
     ├── node_modules
     ├── src
@@ -48,7 +41,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── package.json
     └── README.md
 
-## Why
+## Why I created website about automobile 
 
 Love to the car is similar to love to pets: dogs and cats. It isn't only rational, but also part of our lifestyle. We wash the our trucks, polish them, so they are beautiful, we feed them with the best oils and gasoline, we treat them if they get sick.
 
